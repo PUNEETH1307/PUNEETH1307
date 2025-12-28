@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at ATME COLLEGE OF ENGINEERING | Computer Science and Engineering | DSA | JAVA | Web Development
+I am a Computer Science and Engineering student at ATME College of Engineering with a strong interest in Data Structures and Algorithms, Java programming, and full-stack web development. I enjoy building efficient, user-focused applications and continuously improving my problem-solving skills. I’m passionate about learning new technologies, collaborating on impactful projects, and growing as a software developer.
 
 
 ## 🌐 Socials:
